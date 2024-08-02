@@ -1,7 +1,6 @@
-@def title = "Franklin Example"
-@def tags = ["syntax", "code"]
+@def title = "Julia_Dispatch.fm"
 
-# How to use Franklin
+# Julia_Dispatch.fm - A Julia Programming Podcast
 
 \tableofcontents <!-- you can use \toc as well -->
 
