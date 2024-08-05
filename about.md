@@ -4,7 +4,7 @@ title = "About Julia_Dispatch.fm"
 
 # About Julia_Dispatch.fm
 
-(Last updated: {date }) <!-- fixme -->
+(Last updated: {{ fill fd_mtime }})
 
 In the summer of 2024, Michael has been ready for a change of pace.
 He's realized his social skills are better than his programming skills,

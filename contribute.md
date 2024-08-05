@@ -4,7 +4,7 @@ title = "Contribute to Julia_Dispatch.fm"
 
 # Contribute to Julia_Dispatch.fm
 
-(Last updated: {date}) <!-- fixme -->
+(Last updated: {{ fill fd_mtime }})
 
 We'd love to have your input. You can
 
