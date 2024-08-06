@@ -1,3 +1,6 @@
+.vscode/
+Manifest.toml
+
 __site/
 .DS_Store
 node_modules/
