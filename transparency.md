@@ -2,7 +2,7 @@
 title = "Transparency"
 +++
 
-# Transperancy
+# Transparency
 
 (Last updated: {{ fill fd_mtime }})
 
