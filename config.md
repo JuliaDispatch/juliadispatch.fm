@@ -20,6 +20,9 @@ generate_rss = true
 website_title = "Julia_Dispatch.fm"
 website_descr = "A podcast about Julia projects and their contributors"
 website_url   = "https://juliadispatch.fm/"
+
+# Footer variable
+logo_size = 40
 +++
 
 <!--

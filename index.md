@@ -1,4 +1,6 @@
-@def title = "Julia_Dispatch.fm"
++++
+title = "Julia_Dispatch.fm"
++++
 
 # Julia_Dispatch.fm - A Julia Programming Podcast
 
@@ -15,10 +17,3 @@ Hear their stories, learn what brought them to Julia, what excites them and how 
 #### Tim Holy
 
 [show notes]
-
-## Footer
-
-Links to all the available sources:
-
-- 
-- Github [![Github logo](assets/infra/github.svg)](https://github.com/JuliaDispatch/)
