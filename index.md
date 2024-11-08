@@ -1,24 +1,22 @@
 @def title = "Julia_Dispatch.fm"
 
-# Julia_Dispatch.fm - A Julia Programming Podcast
+# Julia Dispatch - A Julia Programming Podcast
 
 <!-- \tableofcontents --> <!-- you can use \toc as well -->
 
-`Julia_Dispatch.fm` is a podcast about all that matters about Julia.
-We'll meet the wonderful people who contribute to the community and the language ecosystem. 
+`Julia_Dispatch.fm` is a podcast about all that matters in the Julia world.
+We'll meet the wonderful people who contribute to the community and the language ecosystem.
 Hear their stories, learn what brought them to Julia, what excites them and how you could potentially follow in their footsteps.
+
+## Sources
+
+- YouTube: [channel](https://www.youtube.com/@JuliaDispatch)
+- Spotify: [channel](https://open.spotify.com/show/6Y1zWtFhjqPLsFQWRvZmws)
+- RSS: [feed](https://anchor.fm/s/fc63539c/podcast/rss)
 
 ## Episodes
 
-### Coming Up
-
-#### Tim Holy
-
-[show notes]
-
-## Footer
-
-Links to all the available sources:
-
-- 
-- Github [![Github logo](assets/infra/github.svg)](https://github.com/JuliaDispatch/)
+| Guests                             | Title                          | YouTube                                              | Spotify                                                                                    |
+| ---------------------------------- | ------------------------------ | ---------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| Tim Holy                           | Julia developer experience     | [video](https://www.youtube.com/watch?v=N8rqpPKUfYg) | [audio](https://open.spotify.com/episode/5GFlbZs1h7NIRzkF8SrANh?si=8WujdyqXRJ-Ka8dp97mevg) |
+| Alexander Demin & Yassin ElBedwihy | A GSoC project in Symbolics.jl | [video](https://www.youtube.com/watch?v=IQmhH0TJHQM) | [audio](https://open.spotify.com/episode/46UEJo9Hlf4FbrlezRs2Nf?si=ee2zufpAQ8O7E3CciBFzdw) |
