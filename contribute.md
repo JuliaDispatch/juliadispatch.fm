@@ -20,7 +20,7 @@ We'd love to have your input. You can
 - **help us with the organization**.
   We need to maintain a website, prepare and post-process episodes and
   million other small things.
-  We organize right here on Github.
+  We organize right here on Github in the [JuliaDispatch organization](https://github.com/JuliaDispatch).
   Feel free to browse through all the issues and submit your pull requests.
 - **be part of the show**.
   We're envisioning this as a podcast _for_ the community _by_ the community.
