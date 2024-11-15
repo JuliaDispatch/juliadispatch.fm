@@ -2,7 +2,7 @@
 title = "About Julia_Dispatch.fm"
 +++
 
-# About Julia_Dispatch.fm
+# About Julia Dispatch
 
 (Last updated: {{ fill fd_mtime }})
 
