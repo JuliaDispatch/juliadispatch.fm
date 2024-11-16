@@ -2,7 +2,7 @@
 title = "Contribute to Julia_Dispatch.fm"
 +++
 
-# Contribute to Julia_Dispatch.fm
+# Contribute to Julia Dispatch
 
 (Last updated: {{ fill fd_mtime }})
 
