@@ -23,3 +23,8 @@ Hear their stories, learn what brought them to Julia, what excites them and how 
 | Jeff Bezanson | Static Compilation of Julia | [video](https://www.youtube.com/watch?v=4CV5SG3OLMw) | [audio](https://open.spotify.com/episode/6n1192H8LOQyQG5pC82xHw?si=5a7c699861e14b3e) |
 | Παναγιώτης Γεωργακόπουλος | Pluto.jl | [video](https://www.youtube.com/watch?v=TknY3rE1TeE) | [audio](https://open.spotify.com/episode/4XOXHZmPQ0d03n3gYn8m11?si=61c6f8aa52ff4832) |
 | Guillaume Dalle | Automatic Differentiation | [video](https://www.youtube.com/watch?v=slDh2HxTzt4) | [audio](https://open.spotify.com/episode/20mlAPebpWYNB1fk9a1nV6?si=f70b147a18224e0d) |
+
+## Test
+
+{{episodetable}}
+Hello, world!

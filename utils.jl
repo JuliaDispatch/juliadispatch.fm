@@ -14,3 +14,15 @@ function lx_baz(com, _)
   # do whatever you want here
   return uppercase(brace_content)
 end
+
+# Custom code
+function hfun_episodetable()
+  episode_dir = "episodes/"
+  episode_files = readdir(episode_dir)
+  foo = ""
+  for filename in episode_files
+    linkname = episode_dir * filename[1:end-3] * "/"
+    foo *= "<a href=\"" * linkname * "\">" * linkname * "</a>"
+  end
+  return foo
+end
