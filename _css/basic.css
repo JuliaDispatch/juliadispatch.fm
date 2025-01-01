@@ -170,11 +170,12 @@ table {
   margin-bottom: 1.5em;
 }
 
-tr:first-of-type {
+/* tr:first-of-type {
   background: #eae9f4;
-}
+} */
 
 tr:first-of-type > th {
+  background: #eae9f4;
   text-align: center;
 }
 

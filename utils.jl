@@ -19,10 +19,17 @@ end
 function hfun_episodetable()
   episode_dir = "episodes/"
   episode_files = readdir(episode_dir)
-  foo = ""
+  table_str = """
+  | Guests | Title | Video | Audio |
+  | --- | --- | --- | --- |
+  """
   for filename in episode_files
-    linkname = episode_dir * filename[1:end-3] * "/"
-    foo *= "<a href=\"" * linkname * "\">" * linkname * "</a>"
+    full_filename = episode_dir * filename
+    table_str *= "| {{fill guest $full_filename}} " *
+                 "| {{fill title $full_filename}} " *
+                 "| [video]({{fill youtube $full_filename}}) " *
+                 "| [audio]({{fill spotify $full_filename}}) " *
+                 "|\n"
   end
-  return foo
+  return html(html2(table_str, cur_lc()))
 end
