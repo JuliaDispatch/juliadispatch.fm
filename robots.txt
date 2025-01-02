@@ -1,4 +1,0 @@
-Sitemap: https://juliadispatch.fm/sitemap.xml
-
-User-agent: *
-Disallow:
