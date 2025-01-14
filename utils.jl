@@ -14,3 +14,22 @@ function lx_baz(com, _)
   # do whatever you want here
   return uppercase(brace_content)
 end
+
+# Custom code
+function hfun_episodetable()
+  episode_dir = "episodes/"
+  episode_files = readdir(episode_dir)
+  table_str = """
+  | Guests | Title | Video | Audio |
+  | --- | --- | --- | --- |
+  """
+  for filename in episode_files
+    full_filename = episode_dir * filename
+    table_str *= "| {{fill guest $full_filename}} " *
+                 "| {{fill title $full_filename}} " *
+                 "| [video]({{fill youtube $full_filename}}) " *
+                 "| [audio]({{fill spotify $full_filename}}) " *
+                 "|\n"
+  end
+  return html(html2(table_str, cur_lc()))
+end
